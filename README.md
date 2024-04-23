@@ -26,8 +26,9 @@ only)
 This uses the emerging [Sign In With Substrate standard](https://siws.xyz/) for login and a custom system for the
 onboarding. The user/data flows will look as follows:
 
-- [Onboarding sign-up flow](./docs/signup-flow.md)
-- [Sign-in flow](./docs/login-flow.md)
+- [Overview](./docs/overview-flow.md)
+- [Onboarding sign-up sequence](./docs/signup-flow.md)
+- [Sign-in sequence](./docs/login-flow.md)
 
 ## Usage
 

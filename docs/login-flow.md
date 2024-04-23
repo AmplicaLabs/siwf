@@ -1,3 +1,5 @@
+# Sequence Diagram of Login Flow
+
 ```mermaid
 sequenceDiagram
     actor A as User

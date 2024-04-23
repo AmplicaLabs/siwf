@@ -1,3 +1,5 @@
+# Sequence Diagram of Signup
+
 ```mermaid
 sequenceDiagram
     actor A as User
